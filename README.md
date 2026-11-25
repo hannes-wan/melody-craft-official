@@ -5,7 +5,7 @@
 
 > Turn a solo vocal or instrument recording into editable MIDI with pitch bends intact, completely offline.
 
-Free Community Edition offline audio-to-MIDI desktop converter that preserves vocal and bass pitch bends with level-matched A/B playback and piano-roll editing.
+Free Community Edition offline audio to MIDI converter software that preserves vocal and bass pitch bends with level-matched A/B playback and piano-roll editing.
 
 Drop one recorded voice, bass, or pitched instrument and get a single editable MIDI track locally. Compare original audio against synthesized MIDI at matched loudness, refine notes and bends on the piano roll, and save your work offline.
 
