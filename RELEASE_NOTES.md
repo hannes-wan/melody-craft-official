@@ -1,8 +1,7 @@
 **Melody Craft Community Edition is free to download and use.**
 
-Melody Craft 0.1.0 launches offline solo audio-to-MIDI transcription with preserved pitch bends, level-matched A/B recording comparison, and an interactive piano roll editor.
+Melody Craft routes direct website purchases straight to its dedicated license page and clarifies Microsoft Store unlock status messaging.
 
-- Convert a solo vocal, bass, guitar, or single-instrument recording (WAV, MP3, FLAC, OGG, M4A, AAC) into one editable MIDI track offline on your desktop.
-- Preserve expressive slides, vibrato, and inflections as stepped MIDI pitch-bend curves overlaid directly on each piano-roll note.
-- Switch seamlessly between the original Recording and synthesized MIDI at matched loudness while editing pitch, timing, velocity, splits, and merges.
-- Community Edition keeps transcription, A/B playback, piano-roll editing, and project work free; an effective license unlocks MIDI and WAV audio export.
+- Pointed the direct purchase action straight to https://hannes-software.com/melody-craft/license/ so Professional and Team checkout opens in one step.
+- Clarified Microsoft Store unlock status messaging when a Store add-on is not yet available for the current build.
+- Community Edition keeps offline solo vocal and bass audio to MIDI transcription, stepped pitch bend inspection, level-matched A/B playback, and piano roll editing free; an effective license unlocks MIDI and WAV export.

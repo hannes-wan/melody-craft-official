@@ -9,18 +9,18 @@ Free Community Edition offline audio to MIDI converter software that preserves v
 
 Drop one recorded voice, bass, or pitched instrument and get a single editable MIDI track locally. Compare original audio against synthesized MIDI at matched loudness, refine notes and bends on the piano roll, and save your work offline.
 
-**Melody Craft Community Edition is free to download and use.** Use the core workflow locally and decide from real output.
+**Melody Craft Community Edition is free to download and use.** Full offline solo audio-to-MIDI transcription, pitch-bend curve extraction, level-matched Recording vs. MIDI A/B comparison, piano-roll editing, and .mcraft projects free forever.
 
 [Download Community Edition](https://hannes-software.com/melody-craft/download/) · [Product guide](https://hannes-software.com/melody-craft/) · [Help](https://hannes-software.com/melody-craft/help/) · [Report a bug](https://github.com/hannes-wan/melody-craft-official/issues/new?template=bug_report.yml)
 
-## Download Melody Craft 0.1.0
+## Download Melody Craft 0.1.1
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [melody-craft-0.1.0-linux-x64.AppImage](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.0/melody-craft-0.1.0-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [melody-craft-0.1.0-linux-x64.deb](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.0/melody-craft-0.1.0-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [melody-craft-0.1.0-linux-x64.rpm](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.0/melody-craft-0.1.0-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [melody-craft-0.1.0-windows-x64-setup.exe](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.0/melody-craft-0.1.0-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [melody-craft-0.1.1-linux-x64.AppImage](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.1/melody-craft-0.1.1-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [melody-craft-0.1.1-linux-x64.deb](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.1/melody-craft-0.1.1-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [melody-craft-0.1.1-linux-x64.rpm](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.1/melody-craft-0.1.1-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [melody-craft-0.1.1-windows-x64-setup.exe](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.1/melody-craft-0.1.1-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/melody-craft/download/).
 
@@ -73,6 +73,9 @@ Choose Auto, Cleaner, or Detailed cleaning modes with adjustable onset and susta
 
 ## Community Edition is genuinely useful
 
+- Offline solo audio-to-MIDI
+- Stepped pitch bends & A/B preview
+- Piano-roll editing & .mcraft save
 
 Optional licensed workflows are available for people who need the expanded feature set. Licensing details belong on the website; the Community Edition remains the free way to evaluate and use the core product.
 
@@ -136,6 +139,20 @@ When Keep slides and vibrato is enabled, Melody Craft writes expressive pitch mo
 <summary><strong>Which audio file formats can I convert to MIDI?</strong></summary>
 
 You can drop or import WAV, MP3, FLAC, OGG, M4A, and AAC files. Clean, dry mono recordings of a single pitched instrument or voice give the clearest note boundaries and bend contours, while heavy reverb or distortion may require light manual editing.
+
+</details>
+
+<details>
+<summary><strong>Which Melody Craft installer should I download for Windows or Linux?</strong></summary>
+
+On Windows 10 or later (x64), download the official Windows x64 installer (.exe) from the download page or install Melody Craft from Microsoft Store. On Linux x64, pick DEB, RPM, or portable AppImage. Every website download includes a verified SHA-256 checksum.
+
+</details>
+
+<details>
+<summary><strong>How do the Auto, Cleaner, and Detailed recognition modes differ?</strong></summary>
+
+Auto balances note clarity and detail for most clean solo takes, Cleaner suppresses short room-bleed or breath artifacts, and Detailed preserves rapid grace notes and fine articulations. You can pair any mode with Onset and Sustain threshold adjustments and reconvert locally in seconds.
 
 </details>
 
