@@ -1,7 +1,7 @@
 # Melody Craft
 
 [![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/melody-craft/download/)
-[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/melody-craft/download/) [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/melody-craft/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/melody-craft/)
+[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/melody-craft/download/) [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/melody-craft/download/) [![macOS](https://img.shields.io/badge/macOS-Desktop-64748b?style=flat-square&logo=apple)](https://hannes-software.com/melody-craft/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/melody-craft/)
 
 > Turn a solo vocal or instrument recording into editable MIDI with pitch bends intact, completely offline.
 
@@ -13,24 +13,15 @@ Drop one recorded voice, bass, or pitched instrument and get a single editable M
 
 [Download Community Edition](https://hannes-software.com/melody-craft/download/) · [Product guide](https://hannes-software.com/melody-craft/) · [Help](https://hannes-software.com/melody-craft/help/) · [Report a bug](https://github.com/hannes-wan/melody-craft-official/issues/new?template=bug_report.yml)
 
-<!-- HANNES_STUDIO_HERO_START -->
-### Hear & See It Live — Zero Subscription, 100% Offline
-
-**Play any bass or vocal riff and get instant editable MIDI with pitch bends intact — 100% offline, zero cloud uploads.**
-
-[![Watch Interactive Audio A/B Demo](https://img.shields.io/badge/▶_Hear_Live_Audio_A%2FB-Watch_Walkthrough-2563eb?style=for-the-badge)](https://hannes-software.com/watch/melody-craft/?utm_source=github&utm_medium=readme&utm_campaign=melody-craft-hero) [![YouTube Short](https://img.shields.io/badge/YouTube-10s_Ear_Test-dc2626?style=for-the-badge&logo=youtube)](https://hannes-software.com/watch/melody-craft/)
-
-[![melody-craft desktop workbench](https://hannes-software.com/assets/melody-craft/screenshots/melody-bass-roll-01.webp)](https://hannes-software.com/watch/melody-craft/?utm_source=github&utm_medium=readme&utm_campaign=melody-craft-hero)
-<!-- HANNES_STUDIO_HERO_END -->
-
-## Download Melody Craft 0.1.1
+## Download Melody Craft 0.1.2
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [melody-craft-0.1.1-linux-x64.AppImage](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.1/melody-craft-0.1.1-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [melody-craft-0.1.1-linux-x64.deb](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.1/melody-craft-0.1.1-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [melody-craft-0.1.1-linux-x64.rpm](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.1/melody-craft-0.1.1-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [melody-craft-0.1.1-windows-x64-setup.exe](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.1/melody-craft-0.1.1-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [melody-craft-0.1.2-linux-x64.AppImage](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.2/melody-craft-0.1.2-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [melody-craft-0.1.2-linux-x64.deb](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.2/melody-craft-0.1.2-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [melody-craft-0.1.2-linux-x64.rpm](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.2/melody-craft-0.1.2-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| macOS universal | [melody-craft-0.1.2-macos-universal.dmg](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.2/melody-craft-0.1.2-macos-universal.dmg) | macOS disk image |
+| Windows x64 | [melody-craft-0.1.2-windows-x64-setup.exe](https://github.com/hannes-wan/melody-craft-official/releases/download/v0.1.2/melody-craft-0.1.2-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/melody-craft/download/).
 
@@ -38,6 +29,7 @@ Checksums, installation notes, and the complete platform matrix live on the [off
 
 - **Windows:** Windows 10 or Windows 11 on x64.
 - **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
+- **macOS:** a current 64-bit macOS release.
 - **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
 ## Why Melody Craft exists

@@ -1,7 +1,7 @@
 **Melody Craft Community Edition is free to download and use.**
 
-Melody Craft routes direct website purchases straight to its dedicated license page and clarifies Microsoft Store unlock status messaging.
+Melody Craft 0.1.2 adds official Apple Silicon and Intel macOS support for offline vocal and bass audio to MIDI transcription, pitch bend preservation, piano roll editing, and level-matched WAV playback.
 
-- Pointed the direct purchase action straight to https://hannes-software.com/melody-craft/license/ so Professional and Team checkout opens in one step.
-- Clarified Microsoft Store unlock status messaging when a Store add-on is not yet available for the current build.
-- Community Edition keeps offline solo vocal and bass audio to MIDI transcription, stepped pitch bend inspection, level-matched A/B playback, and piano roll editing free; an effective license unlocks MIDI and WAV export.
+- Brings offline audio to MIDI melody transcription with vocal and bass pitch bend preservation, velocity and onset editing on the piano roll, and level-matched WAV A/B playback to Apple Silicon and Intel macOS with Developer ID signing and Apple notarization.
+- Adds sandboxed Mac App Store packaging with StoreKit non-consumable permanent unlock support and export-compliance metadata.
+- Synchronizes Linux, Windows, and macOS release manifests and store packaging identifiers on version 0.1.2.
